@@ -1,0 +1,42 @@
+Árbol del proyecto: C:/Users/Florian/Documents/PI2/focushive
+
+├── .gitignore
+├── README.md
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── project-tree.py
+├── public
+│   └── vite.svg
+└── src
+    ├── App.css
+    ├── App.tsx
+    ├── assets
+    │   └── react.svg
+    ├── components
+    │   ├── atoms
+    │   ├── molecules
+    │   └── organisms
+    ├── index.css
+    ├── layouts
+    ├── main.tsx
+    ├── pages
+    │   ├── about
+    │   ├── auth
+    │   ├── community
+    │   ├── contact
+    │   ├── dashboard
+    │   ├── flashcards
+    │   ├── landing
+    │   ├── methods
+    │   │   ├── cornell
+    │   │   ├── feynman
+    │   │   └── mindmap
+    │   ├── profile
+    │   └── timer
+    ├── store
+    └── types
+    └── ... (1 más omitidos)
+└── ... (5 más omitidos)

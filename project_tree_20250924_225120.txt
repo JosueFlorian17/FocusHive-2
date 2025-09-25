@@ -1,0 +1,14 @@
+Árbol del proyecto: C:/Users/Florian/Documents/PI2/focushive
+
+├── .gitignore
+├── README.md
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── project-tree.py
+├── project_tree_20250924_223558.txt
+└── public
+    └── vite.svg
+└── ... (6 más omitidos)
